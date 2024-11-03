@@ -14,13 +14,13 @@ This application provides a graphical user interface for predicting stock moveme
 
 1. Clone this repository:
 
-git clone https://github.com/btimper/stock-prediction-app.git
+git clone https://github.com/btimper/stock-prediction-app.git \
 cd stock-prediction-app
 
 2. Create a virtual environment (optional but recommended):
 
-python -m venv .venv
-source .venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+python -m venv .venv  \
+source .venv/bin/activate  # On Windows, use .venv\Scripts\activate
 
 3. Install the required packages:
 
